@@ -1,0 +1,451 @@
+text,category,priority
+"Hello team, How do I enable dark mode in settings. I use the mobile app. Regards.",Technical,Low
+"Hi, I want to delete my account. I use the mobile app. Regards.",Account,Medium
+"Good morning, The app crashes every time I open it. Regards.",Technical,High
+"Hello team, Please change the email address on my profile. It happened again today. Ref #1243. Any update?",Account,Low
+"Hey, I would like to give feedback on your service. I use the mobile app. Thank you!",General,Low
+URGENT: I was charged twice for my subscription. Thank you!,Billing,High
+"Hi, Please change the email address on my profile. I use the mobile app. Regards.",Account,Low
+"Hey, Please change the email address on my profile. I use the mobile app. Ref #7201. Please help.",Account,Low
+"Hello team, My account was hacked and someone changed my password. This is the second time. Please help.",Account,High
+"good morning, i would like to give feedback on your service. i am on the premium plan. thanks.",General,Low
+"Good morning, Do you offer student discounts. I use the mobile app.",General,Low
+"Hello team, Do you have a partnership program. I use the mobile app. Thank you!",General,Low
+"hi, my refund has not arrived yet. i am on the premium plan. thanks.",Billing,Medium
+"hey, can i change the delivery address. this is the second time. please help.",Shipping,Medium
+"Hi, Can I speak to a manager about my experience. It happened again today. Thank you!",General,Medium
+"Good morning, The package came damaged. It happened again today. Ref #3308. Thank you!",Shipping,High
+"hi, the dashboard loads very slowly. i use the mobile app. please help.",Technical,Medium
+"Hey, Where can I find your terms of service. Ref #6957. Any update?",General,Low
+"hey, the dashboard loads very slowly. please help.",Technical,Medium
+"Good morning, What is the status of my shipment. Thank you!",Shipping,Low
+"Hello team, What is the status of my shipment. I use the mobile app.",Shipping,Low
+"URGENT: Hi, Can I speak to a manager about my experience. This is the second time. Please help.",General,High
+the payment failed but money was deducted from my card. it happened again today. regards.,Billing,High
+Please change the email address on my profile. I am on the premium plan.,Account,Low
+"Good morning, How do I enable dark mode in settings. This is the second time. Ref #9108.",Technical,Low
+"Hello team, My refund has not arrived yet. Ref #6308. Please help.",Billing,Medium
+"Hey, I was charged twice for my subscription. This is the second time. Please help.",Billing,High
+what are your support hours. it happened again today. thanks.,General,Low
+"Hi, Do you have a partnership program. It happened again today. Regards.",General,Low
+"Hi, The app crashes every time I open it. This is the second time. Ref #4756. Regards.",Technical,High
+"Hi, The payment failed but money was deducted from my card. Thanks.",Billing,High
+"Hi, The payment failed but money was deducted from my card. This is the second time. Please help.",Billing,High
+"Hello team, My order has not arrived and it was due last week. This is the second time. Ref #6520. Please help.",Shipping,High
+The dashboard loads very slowly. I am on the premium plan. Ref #1348. Thank you!,Technical,Medium
+"Hi, I did not receive the verification email. I am on the premium plan. Regards.",Account,Medium
+"Hello team, I would like to give feedback on your service. I use the mobile app. Ref #9001.",General,Low
+"hey, the payment failed but money was deducted from my card. thanks.",Billing,High
+"Hello team, Where can I find your terms of service. I am on the premium plan. Ref #3569. Please help.",General,Low
+"Good morning, I cannot log in to my account. I use the mobile app. Thanks.",Account,High
+"Hey, How do I add a new team member. I use the mobile app.",Account,Low
+"Good morning, My refund has not arrived yet. I use the mobile app. Any update?",Billing,Medium
+"Hey, I would like to give feedback on your service. This is the second time.",General,Low
+"Hi, How do I enable dark mode in settings. Regards.",Technical,Low
+"good morning, can i speak to a manager about my experience. thank you!",General,Medium
+"Hi, I did not receive the verification email. Thanks.",Account,Medium
+"URGENT: Hello team, Do you have a partnership program. Ref #1484. Thank you!",General,High
+How do I add a new team member. It happened again today. Ref #1813. Thanks.,Account,Low
+The payment failed but money was deducted from my card. I am on the premium plan. Thank you!,Billing,High
+"Hi, I want to delete my account. I use the mobile app. Ref #6472.",Account,Medium
+"Hi, I get an error when uploading a file. I use the mobile app. Thank you!",Technical,Medium
+The dashboard loads very slowly. Ref #6210. Please help.,Technical,Medium
+"hi, i want to delete my account. i use the mobile app. ref #2412. regards.",Account,Medium
+"Hey, My account was hacked and someone changed my password. Thank you!",Account,High
+"Hi, How do I add a new team member. I use the mobile app. Any update?",Account,Low
+"hello team, where can i find your terms of service. thank you!",General,Low
+"Hi, I would like to give feedback on your service. Ref #1760. Please help.",General,Low
+"hey, do you offer student discounts. it happened again today. thank you!",General,Low
+"hi, the whole website is down and we cannot work. it happened again today. regards.",Technical,High
+"Hey, What are your support hours. It happened again today. Any update?",General,Low
+"Hey, The package came damaged. I am on the premium plan.",Shipping,High
+"URGENT: Hey, Tracking shows no updates for five days. Any update?",Shipping,High
+"Hello team, Please send me an invoice for last month. I am on the premium plan. Any update?",Billing,Low
+"hey, where can i find your terms of service. it happened again today. ref #5521. thanks.",General,Low
+"Hey, I want to delete my account. This is the second time. Ref #9446. Thanks.",Account,Medium
+"Hey, The dashboard loads very slowly. This is the second time.",Technical,Medium
+"Hey, I cannot log in to my account. This is the second time.",Account,High
+"Hello team, Can I change the delivery address. Please help.",Shipping,Medium
+"Hi, Please send me an invoice for last month. It happened again today. Thanks.",Billing,Low
+Do you ship to Canada. This is the second time. Regards.,Shipping,Low
+"good morning, can i change the delivery address. i am on the premium plan. ref #5712. thank you!",Shipping,Medium
+I cannot log in to my account. It happened again today.,Account,High
+"Hi, The dashboard loads very slowly. Thank you!",Technical,Medium
+"Good morning, The app crashes every time I open it. Ref #2104. Thanks.",Technical,High
+"hello team, i did not receive the verification email. i am on the premium plan. regards.",Account,Medium
+"Good morning, I did not receive the verification email. Any update?",Account,Medium
+"Good morning, Where can I find your terms of service. I use the mobile app. Please help.",General,Low
+URGENT: I cannot log in to my account. I use the mobile app. Thanks.,Account,High
+"Hey, How do I enable dark mode in settings. Any update?",Technical,Low
+"hi, the dashboard loads very slowly. i use the mobile app. any update?",Technical,Medium
+"hello team, update my billing address on the invoice. this is the second time. ref #8006. please help.",Billing,Low
+"hey, i cannot log in to my account. this is the second time. please help.",Account,High
+"Hey, The export button does nothing. It happened again today. Any update?",Technical,Medium
+The payment failed but money was deducted from my card. Thank you!,Billing,High
+Can I speak to a manager about my experience. It happened again today. Thank you!,General,Medium
+"Hi, I want to delete my account. This is the second time. Thanks.",Account,Medium
+"hello team, the app crashes every time i open it. this is the second time.",Technical,High
+"good morning, how do i add a new team member. thank you!",Account,Low
+"Good morning, Do you have a partnership program. This is the second time. Regards.",General,Low
+"Hey, Please change the email address on my profile. I use the mobile app. Ref #1741.",Account,Low
+"Hey, Do you offer student discounts.",General,Low
+Where can I find your terms of service. I use the mobile app. Regards.,General,Low
+Can I change the delivery address. It happened again today.,Shipping,Medium
+Update my billing address on the invoice. This is the second time.,Billing,Low
+I did not receive the verification email. It happened again today. Thank you!,Account,Medium
+"Hey, I would like to give feedback on your service. It happened again today. Ref #4734.",General,Low
+"Hey, The app crashes every time I open it.",Technical,High
+Can I change the delivery address. This is the second time. Regards.,Shipping,Medium
+"Hi, What are your support hours. Ref #3645. Regards.",General,Low
+"hey, the app crashes every time i open it. this is the second time. ref #9490.",Technical,High
+"Hey, Can I change the delivery address. Thank you!",Shipping,Medium
+URGENT: Do you ship to Canada. This is the second time. Thank you!,Shipping,High
+My refund has not arrived yet. Ref #1526. Thank you!,Billing,Medium
+My account was hacked and someone changed my password. This is the second time. Any update?,Account,High
+"URGENT: Hey, Do you offer student discounts. This is the second time. Ref #1348. Please help.",General,High
+What is the status of my shipment. Please help.,Shipping,Low
+"Good morning, I get an error when uploading a file. I am on the premium plan. Regards.",Technical,Medium
+"hey, the export button does nothing. it happened again today. ref #4353. please help.",Technical,Medium
+URGENT: Why did the price of my plan increase. This is the second time. Ref #5012. Any update?,Billing,High
+What are your support hours. I am on the premium plan. Thanks.,General,Low
+"hello team, i was charged twice for my subscription. i am on the premium plan. ref #3692. regards.",Billing,High
+"Good morning, Can I speak to a manager about my experience. It happened again today. Ref #3560. Please help.",General,Medium
+"Good morning, Please change the email address on my profile. Thank you!",Account,Low
+"Hey, The package came damaged. I am on the premium plan.",Shipping,High
+I did not receive the verification email. I use the mobile app. Regards.,Account,Medium
+"Hi, My account was hacked and someone changed my password. It happened again today. Any update?",Account,High
+"Hey, I want to delete my account. This is the second time. Please help.",Account,Medium
+"Hi, How do I add a new team member. It happened again today. Please help.",Account,Low
+"Hi, The export button does nothing. I use the mobile app. Regards.",Technical,Medium
+"Hi, The package came damaged. Thanks.",Shipping,High
+"hello team, how do i enable dark mode in settings. i use the mobile app. thanks.",Technical,Low
+"Good morning, I cannot log in to my account. I use the mobile app. Any update?",Account,High
+I get an error when uploading a file. I use the mobile app.,Technical,Medium
+urgent: my account was hacked and someone changed my password. this is the second time. regards.,Account,High
+"urgent: hey, the payment failed but money was deducted from my card.",Billing,High
+"Hi, I did not receive the verification email. I am on the premium plan.",Account,Medium
+Please change the email address on my profile. I am on the premium plan. Thanks.,Account,Low
+"Hello team, The payment failed but money was deducted from my card. I am on the premium plan. Regards.",Billing,High
+"URGENT: Hello team, What are your support hours. I am on the premium plan. Thank you!",General,High
+i was charged twice for my subscription. this is the second time. ref #4542. please help.,Billing,High
+"Hello team, Do you offer student discounts.",General,Low
+"Hey, Update my billing address on the invoice.",Billing,Low
+"Hello team, The app crashes every time I open it.",Technical,High
+"Hi, My refund has not arrived yet. I am on the premium plan. Thanks.",Billing,Medium
+"Hello team, What are your support hours. It happened again today. Ref #5470. Regards.",General,Low
+"Hey, What is the status of my shipment. I use the mobile app. Thank you!",Shipping,Low
+"Hi, I would like to give feedback on your service. Ref #8281.",General,Low
+"Hey, Do you ship to Canada. I use the mobile app. Thank you!",Shipping,Low
+URGENT: I get an error when uploading a file. It happened again today.,Technical,High
+"Hey, How do I enable dark mode in settings. I use the mobile app. Ref #1127. Thank you!",Technical,Low
+"URGENT: Hello team, I want to delete my account. Ref #4348. Regards.",Account,High
+"Hello team, I did not receive the verification email. It happened again today. Thanks.",Account,Medium
+"Hi, The package came damaged. It happened again today. Thanks.",Shipping,High
+i would like to give feedback on your service. it happened again today. regards.,General,Low
+"Hey, My account was hacked and someone changed my password.",Account,High
+"hi, the dashboard loads very slowly. i use the mobile app. thanks.",Technical,Medium
+urgent: i want to delete my account.,Account,High
+"hi, do you offer student discounts. this is the second time. any update?",General,Low
+"Hi, Do you have a partnership program. Thanks.",General,Low
+"hi, the payment failed but money was deducted from my card. ref #3025. any update?",Billing,High
+"Good morning, I cannot log in to my account. It happened again today. Thanks.",Account,High
+"Hey, The payment failed but money was deducted from my card. It happened again today. Thanks.",Billing,High
+"Hey, Do you offer student discounts. It happened again today. Thank you!",General,Low
+"good morning, what is the status of my shipment. it happened again today.",Shipping,Low
+"Hi, Do you have a partnership program. Regards.",General,Low
+"URGENT: Hello team, I was charged twice for my subscription. Thank you!",Billing,High
+"Hi, Update my billing address on the invoice. Thank you!",Billing,Low
+"urgent: hello team, i would like to give feedback on your service. i am on the premium plan. ref #6162. regards.",General,High
+"Good morning, The package came damaged. It happened again today. Thank you!",Shipping,High
+"urgent: hi, i want to delete my account. i am on the premium plan. ref #6532.",Account,High
+"Good morning, Please send me an invoice for last month. Any update?",Billing,Low
+do you ship to canada. i use the mobile app. ref #4721. any update?,Shipping,Low
+"Hey, I would like to give feedback on your service. Any update?",General,Low
+"Hi, Do you offer student discounts. I am on the premium plan. Ref #3180. Regards.",General,Low
+"hello team, how do i enable dark mode in settings. ref #4481. any update?",Technical,Low
+Do you offer student discounts. This is the second time. Ref #2602.,General,Low
+"Hello team, My order has not arrived and it was due last week. Regards.",Shipping,High
+"Hi, Do you offer student discounts. I use the mobile app. Thank you!",General,Low
+please change the email address on my profile. ref #7071. any update?,Account,Low
+"good morning, my account was hacked and someone changed my password. ref #1158. thanks.",Account,High
+"Hello team, I would like to give feedback on your service. Thank you!",General,Low
+"Hey, Update my billing address on the invoice. I use the mobile app. Thank you!",Billing,Low
+"Hello team, Please change the email address on my profile. Please help.",Account,Low
+"URGENT: Hey, The package came damaged. This is the second time. Please help.",Shipping,High
+"hi, the package came damaged. thanks.",Shipping,High
+"Hey, I would like to give feedback on your service. I am on the premium plan. Thanks.",General,Low
+"Hey, I was charged twice for my subscription. I am on the premium plan. Please help.",Billing,High
+"Hey, I did not receive the verification email. This is the second time. Ref #5003. Any update?",Account,Medium
+"hey, can i change the delivery address. this is the second time. thank you!",Shipping,Medium
+Do you ship to Canada.,Shipping,Low
+Can I change the delivery address. It happened again today. Any update?,Shipping,Medium
+"Hey, Where can I find your terms of service. I am on the premium plan. Any update?",General,Low
+Do you have a partnership program. I use the mobile app. Thank you!,General,Low
+"Good morning, I want to delete my account. It happened again today. Regards.",Account,Medium
+"Hey, The app crashes every time I open it.",Technical,High
+The app crashes every time I open it. Any update?,Technical,High
+"Hi, Where can I find your terms of service. Any update?",General,Low
+"Hello team, Tracking shows no updates for five days. It happened again today. Any update?",Shipping,Medium
+Do you ship to Canada. It happened again today. Thanks.,Shipping,Low
+"Hi, How do I enable dark mode in settings. Any update?",Technical,Low
+"URGENT: Hello team, Can I speak to a manager about my experience. Please help.",General,High
+"Hey, Please send me an invoice for last month. Thanks.",Billing,Low
+The export button does nothing. This is the second time. Any update?,Technical,Medium
+"Hello team, I want to delete my account. I use the mobile app. Ref #8255. Thank you!",Account,Medium
+"Hi, I did not receive the verification email. Regards.",Account,Medium
+"Hello team, Please send me an invoice for last month. I use the mobile app. Any update?",Billing,Low
+"Good morning, I was charged twice for my subscription. It happened again today. Regards.",Billing,High
+My order has not arrived and it was due last week. It happened again today. Thanks.,Shipping,High
+"Good morning, The export button does nothing. Ref #3535. Please help.",Technical,Medium
+The export button does nothing. This is the second time. Ref #7189. Thank you!,Technical,Medium
+I would like to give feedback on your service. I am on the premium plan. Regards.,General,Low
+"Hello team, Update my billing address on the invoice. I am on the premium plan. Thank you!",Billing,Low
+I get an error when uploading a file. I am on the premium plan. Ref #3465. Thanks.,Technical,Medium
+"Hey, Please change the email address on my profile. Thank you!",Account,Low
+"urgent: hey, do you ship to canada. thanks.",Shipping,High
+"Hi, The dashboard loads very slowly. Any update?",Technical,Medium
+"Good morning, What are your support hours. I am on the premium plan. Ref #9566. Regards.",General,Low
+"Good morning, Where can I find your terms of service. Ref #7107.",General,Low
+"Hello team, I get an error when uploading a file. I use the mobile app. Thank you!",Technical,Medium
+"hi, what are your support hours. please help.",General,Low
+"Hi, How do I enable dark mode in settings. I use the mobile app. Ref #2114. Any update?",Technical,Low
+i was charged twice for my subscription. regards.,Billing,High
+Where can I find your terms of service. Thank you!,General,Low
+"Hi, Do you offer student discounts. Ref #7165. Any update?",General,Low
+"Hello team, My refund has not arrived yet. Please help.",Billing,Medium
+"Hey, How do I add a new team member. I am on the premium plan. Regards.",Account,Low
+"hello team, my account was hacked and someone changed my password. i am on the premium plan. ref #3651. any update?",Account,High
+"Hey, Why did the price of my plan increase. I use the mobile app. Thank you!",Billing,Medium
+"Hey, Tracking shows no updates for five days. I am on the premium plan. Ref #9399. Thanks.",Shipping,Medium
+"Good morning, Update my billing address on the invoice. I use the mobile app. Ref #9871.",Billing,Low
+URGENT: Tracking shows no updates for five days.,Shipping,High
+"Good morning, The package came damaged. I am on the premium plan.",Shipping,High
+The whole website is down and we cannot work. I use the mobile app.,Technical,High
+"Hello team, Do you offer student discounts.",General,Low
+"URGENT: Hello team, My account was hacked and someone changed my password. It happened again today. Thanks.",Account,High
+"good morning, what is the status of my shipment. it happened again today. any update?",Shipping,Low
+"Hi, Can I change the delivery address.",Shipping,Medium
+"URGENT: Hey, The payment failed but money was deducted from my card. It happened again today. Any update?",Billing,High
+"good morning, why did the price of my plan increase. i use the mobile app. any update?",Billing,Medium
+"Good morning, Why did the price of my plan increase. I am on the premium plan. Any update?",Billing,Medium
+"Hello team, Do you offer student discounts. It happened again today. Ref #1813. Any update?",General,Low
+"hi, please send me an invoice for last month. any update?",Billing,Low
+"urgent: hello team, do you offer student discounts. this is the second time. thank you!",General,High
+"Hello team, What is the status of my shipment. This is the second time. Ref #3470. Thanks.",Shipping,Low
+"Hi, I did not receive the verification email. I use the mobile app. Any update?",Account,Medium
+"Hello team, Do you have a partnership program. Any update?",General,Low
+"hello team, i was charged twice for my subscription. it happened again today. thank you!",Billing,High
+"hello team, where can i find your terms of service. ref #5913. regards.",General,Low
+"Hello team, How do I enable dark mode in settings. This is the second time. Ref #6105. Thanks.",Technical,Low
+the app crashes every time i open it. i use the mobile app. thank you!,Technical,High
+"Hey, My order has not arrived and it was due last week. I am on the premium plan. Ref #6382. Please help.",Shipping,High
+urgent: i want to delete my account. this is the second time. any update?,Account,High
+"Hey, How do I enable dark mode in settings. I am on the premium plan. Thanks.",Technical,Low
+"Good morning, What is the status of my shipment. Please help.",Shipping,Low
+"Hi, The dashboard loads very slowly.",Technical,Medium
+"Good morning, I did not receive the verification email. I am on the premium plan. Ref #9265.",Account,Medium
+"hi, i would like to give feedback on your service. thank you!",General,Low
+"URGENT: Hey, Update my billing address on the invoice.",Billing,High
+"Good morning, Update my billing address on the invoice. Please help.",Billing,Low
+"good morning, the payment failed but money was deducted from my card. this is the second time. thank you!",Billing,High
+"Hey, The app crashes every time I open it. It happened again today.",Technical,High
+"Good morning, I was charged twice for my subscription. It happened again today. Regards.",Billing,High
+"hello team, i get an error when uploading a file. ref #3362.",Technical,Medium
+"good morning, please change the email address on my profile. thank you!",Account,Low
+"Hello team, The whole website is down and we cannot work.",Technical,High
+"Good morning, Update my billing address on the invoice. This is the second time. Regards.",Billing,Low
+"Hi, Do you ship to Canada. Ref #2663. Thanks.",Shipping,Low
+can i speak to a manager about my experience. ref #6575. any update?,General,Medium
+"Hello team, I did not receive the verification email. It happened again today. Any update?",Account,Medium
+"good morning, how do i add a new team member. thanks.",Account,Low
+"Hello team, My account was hacked and someone changed my password. Thanks.",Account,High
+Update my billing address on the invoice. Regards.,Billing,Low
+"Hello team, Why did the price of my plan increase. Any update?",Billing,Medium
+i get an error when uploading a file. thanks.,Technical,Medium
+"hi, why did the price of my plan increase. i use the mobile app. thank you!",Billing,Medium
+Where can I find your terms of service. It happened again today. Regards.,General,Low
+The package came damaged. I use the mobile app. Ref #7714. Please help.,Shipping,High
+"Good morning, Do you have a partnership program. Ref #6629.",General,Low
+"Good morning, Do you ship to Canada. This is the second time.",Shipping,Low
+Please send me an invoice for last month. Please help.,Billing,Low
+"Good morning, What are your support hours. This is the second time. Please help.",General,Low
+"Hey, The whole website is down and we cannot work. I am on the premium plan. Ref #6192. Please help.",Technical,High
+"good morning, i would like to give feedback on your service. i am on the premium plan. ref #2465. thanks.",General,Low
+"Good morning, What is the status of my shipment. I am on the premium plan. Ref #6609. Thank you!",Shipping,Low
+"Hello team, My order has not arrived and it was due last week. I am on the premium plan. Ref #8862.",Shipping,High
+"Hello team, How do I enable dark mode in settings. It happened again today.",Technical,Low
+"Hello team, My account was hacked and someone changed my password. Thank you!",Account,High
+"hi, i was charged twice for my subscription. please help.",Billing,High
+"URGENT: Hey, The app crashes every time I open it. This is the second time.",Technical,High
+"Hi, The dashboard loads very slowly. It happened again today. Any update?",Technical,Medium
+"Hi, My refund has not arrived yet. I am on the premium plan. Ref #2684. Please help.",Billing,Medium
+"hey, the dashboard loads very slowly.",Technical,Medium
+The whole website is down and we cannot work. I am on the premium plan. Ref #4425. Thanks.,Technical,High
+"hey, the export button does nothing.",Technical,Medium
+The whole website is down and we cannot work. It happened again today. Please help.,Technical,High
+"Good morning, My order has not arrived and it was due last week. Ref #3594. Regards.",Shipping,High
+"URGENT: Hi, The export button does nothing. I use the mobile app. Ref #8903. Any update?",Technical,High
+"Hi, I was charged twice for my subscription. It happened again today.",Billing,High
+"Hello team, The package came damaged. I use the mobile app. Please help.",Shipping,High
+The export button does nothing. Thanks.,Technical,Medium
+"URGENT: Hello team, Can I speak to a manager about my experience. I use the mobile app. Ref #2163. Thank you!",General,High
+"Hey, What are your support hours. Ref #9726. Thanks.",General,Low
+"Hey, Do you offer student discounts. I use the mobile app. Ref #2244. Thanks.",General,Low
+"Hey, I was charged twice for my subscription. I am on the premium plan.",Billing,High
+"Hello team, The export button does nothing. Any update?",Technical,Medium
+"Hey, Update my billing address on the invoice. I use the mobile app.",Billing,Low
+"urgent: hi, can i change the delivery address. i am on the premium plan. regards.",Shipping,High
+"Good morning, The dashboard loads very slowly. I am on the premium plan.",Technical,Medium
+"hello team, i did not receive the verification email. this is the second time. any update?",Account,Medium
+what are your support hours. i am on the premium plan. ref #5826. any update?,General,Low
+"Good morning, Do you have a partnership program. It happened again today. Thanks.",General,Low
+"Hey, Can I change the delivery address. This is the second time. Ref #8855. Thank you!",Shipping,Medium
+"Good morning, Why did the price of my plan increase. I use the mobile app. Thank you!",Billing,Medium
+"good morning, the export button does nothing. i use the mobile app. ref #3985. regards.",Technical,Medium
+"Good morning, Tracking shows no updates for five days. I am on the premium plan. Please help.",Shipping,Medium
+"Hey, Do you have a partnership program. It happened again today. Ref #6309. Thank you!",General,Low
+"URGENT: Hello team, The app crashes every time I open it. I am on the premium plan.",Technical,High
+"hey, update my billing address on the invoice. regards.",Billing,Low
+Please send me an invoice for last month. Please help.,Billing,Low
+"hello team, i did not receive the verification email. i am on the premium plan. regards.",Account,Medium
+"Hello team, Can I change the delivery address. Any update?",Shipping,Medium
+"Hello team, The app crashes every time I open it. Ref #2701. Regards.",Technical,High
+"Hi, How do I add a new team member. This is the second time. Ref #7326. Please help.",Account,Low
+"Hello team, I get an error when uploading a file. Please help.",Technical,Medium
+"Hi, The app crashes every time I open it. It happened again today. Thank you!",Technical,High
+I want to delete my account. Please help.,Account,Medium
+"Hello team, What is the status of my shipment. Thank you!",Shipping,Low
+"urgent: hello team, the dashboard loads very slowly. this is the second time. ref #8588. please help.",Technical,High
+"urgent: good morning, what is the status of my shipment. this is the second time. ref #9938.",Shipping,High
+"Hi, How do I enable dark mode in settings. I am on the premium plan. Please help.",Technical,Low
+"Hey, Why did the price of my plan increase. This is the second time. Regards.",Billing,Medium
+"Hi, The payment failed but money was deducted from my card. It happened again today. Thanks.",Billing,High
+"Hello team, The payment failed but money was deducted from my card. This is the second time. Regards.",Billing,High
+"hey, how do i add a new team member. i use the mobile app. thanks.",Account,Low
+"Hello team, How do I add a new team member. Thanks.",Account,Low
+Please send me an invoice for last month. I use the mobile app. Regards.,Billing,Low
+"Hi, My refund has not arrived yet. It happened again today. Please help.",Billing,Medium
+"Hey, My order has not arrived and it was due last week. It happened again today. Please help.",Shipping,High
+URGENT: How do I add a new team member. This is the second time. Thanks.,Account,High
+"Hey, I was charged twice for my subscription. Ref #4847. Any update?",Billing,High
+"Hi, My order has not arrived and it was due last week. I am on the premium plan. Thanks.",Shipping,High
+"Hello team, I get an error when uploading a file. This is the second time. Regards.",Technical,Medium
+"hey, can i change the delivery address. please help.",Shipping,Medium
+What is the status of my shipment. I use the mobile app.,Shipping,Low
+"Hey, How do I add a new team member. It happened again today. Ref #3111. Please help.",Account,Low
+"Good morning, Where can I find your terms of service. Thank you!",General,Low
+"Hey, I want to delete my account. Ref #3318. Thanks.",Account,Medium
+"Good morning, My refund has not arrived yet. This is the second time. Ref #9491. Any update?",Billing,Medium
+"Hi, How do I enable dark mode in settings. I am on the premium plan. Regards.",Technical,Low
+URGENT: I cannot log in to my account. I am on the premium plan. Any update?,Account,High
+"Hey, Can I change the delivery address. I use the mobile app.",Shipping,Medium
+"Hey, Please change the email address on my profile. It happened again today. Thank you!",Account,Low
+"Hello team, Please send me an invoice for last month. I am on the premium plan. Thank you!",Billing,Low
+What are your support hours. I am on the premium plan. Thanks.,General,Low
+"Good morning, Tracking shows no updates for five days. Thanks.",Shipping,Medium
+"Good morning, Tracking shows no updates for five days. Ref #1090.",Shipping,Medium
+tracking shows no updates for five days. i am on the premium plan. thanks.,Shipping,Medium
+where can i find your terms of service. this is the second time. any update?,General,Low
+The whole website is down and we cannot work.,Technical,High
+"Hey, Do you have a partnership program. I am on the premium plan. Thank you!",General,Low
+"Hey, Tracking shows no updates for five days. This is the second time. Ref #1154. Regards.",Shipping,Medium
+"Hi, Can I change the delivery address. Thank you!",Shipping,Medium
+"Hey, The package came damaged. I use the mobile app. Ref #5136. Any update?",Shipping,High
+"Hello team, I did not receive the verification email.",Account,Medium
+"Hey, How do I enable dark mode in settings. Any update?",Technical,Low
+"Hi, Can I change the delivery address. It happened again today. Regards.",Shipping,Medium
+"Good morning, I get an error when uploading a file. Ref #5033. Thank you!",Technical,Medium
+"Good morning, I want to delete my account. Please help.",Account,Medium
+Please change the email address on my profile. Any update?,Account,Low
+"Hello team, The whole website is down and we cannot work. This is the second time. Ref #9444. Regards.",Technical,High
+"Hello team, The package came damaged. I am on the premium plan. Ref #8032.",Shipping,High
+Do you offer student discounts. I am on the premium plan. Thanks.,General,Low
+The dashboard loads very slowly. This is the second time.,Technical,Medium
+How do I add a new team member. I am on the premium plan.,Account,Low
+"urgent: hey, can i change the delivery address. i use the mobile app. thanks.",Shipping,High
+"Good morning, I get an error when uploading a file. Ref #2428. Thanks.",Technical,Medium
+How do I enable dark mode in settings.,Technical,Low
+URGENT: I get an error when uploading a file. Ref #2229. Thanks.,Technical,High
+"hello team, i would like to give feedback on your service. ref #5632. regards.",General,Low
+"hi, do you offer student discounts. it happened again today. regards.",General,Low
+My order has not arrived and it was due last week. I am on the premium plan. Ref #1462. Thank you!,Shipping,High
+"Hi, My refund has not arrived yet. Thanks.",Billing,Medium
+do you ship to canada. this is the second time. regards.,Shipping,Low
+"Hi, Can I change the delivery address. This is the second time. Please help.",Shipping,Medium
+How do I add a new team member. This is the second time. Thanks.,Account,Low
+"URGENT: Hi, I was charged twice for my subscription. I am on the premium plan. Ref #7916. Thank you!",Billing,High
+why did the price of my plan increase. this is the second time. any update?,Billing,Medium
+"URGENT: Good morning, Please change the email address on my profile. It happened again today. Ref #7144. Thank you!",Account,High
+"Hello team, I was charged twice for my subscription. I am on the premium plan. Ref #6808.",Billing,High
+"good morning, why did the price of my plan increase. i am on the premium plan.",Billing,Medium
+"Hi, What are your support hours. I am on the premium plan.",General,Low
+I did not receive the verification email. Any update?,Account,Medium
+"Hello team, My refund has not arrived yet. I am on the premium plan. Thanks.",Billing,Medium
+"Good morning, My refund has not arrived yet. This is the second time. Ref #3547. Any update?",Billing,Medium
+"hi, can i speak to a manager about my experience. ref #1403. thank you!",General,Medium
+what is the status of my shipment. this is the second time. please help.,Shipping,Low
+"Hello team, Do you ship to Canada. Thanks.",Shipping,Low
+"good morning, the payment failed but money was deducted from my card. ref #3929. please help.",Billing,High
+"Hi, I get an error when uploading a file. Ref #7993.",Technical,Medium
+"Good morning, What is the status of my shipment. Any update?",Shipping,Low
+"Hi, How do I add a new team member. This is the second time. Any update?",Account,Low
+"Hey, My order has not arrived and it was due last week. This is the second time. Thanks.",Shipping,High
+"Good morning, Why did the price of my plan increase. Thanks.",Billing,Medium
+"Hey, I want to delete my account. Ref #6091. Thank you!",Account,Medium
+"Hi, I did not receive the verification email. Thank you!",Account,Medium
+"Good morning, I did not receive the verification email. It happened again today. Ref #5762. Thanks.",Account,Medium
+"Hello team, Why did the price of my plan increase. This is the second time. Ref #1941. Please help.",Billing,Medium
+"Good morning, The payment failed but money was deducted from my card. I am on the premium plan. Thank you!",Billing,High
+"URGENT: Hey, How do I add a new team member.",Account,High
+"URGENT: Hi, Can I speak to a manager about my experience. This is the second time. Thank you!",General,High
+"Hello team, Do you offer student discounts. I use the mobile app. Ref #1527. Thanks.",General,Low
+"hi, what is the status of my shipment. i am on the premium plan. thanks.",Shipping,Low
+what is the status of my shipment. thank you!,Shipping,Low
+"Good morning, The app crashes every time I open it. It happened again today. Thanks.",Technical,High
+urgent: tracking shows no updates for five days. any update?,Shipping,High
+"Hi, My refund has not arrived yet.",Billing,Medium
+The package came damaged. I am on the premium plan.,Shipping,High
+"Hello team, Why did the price of my plan increase. Ref #5167. Regards.",Billing,Medium
+I did not receive the verification email. This is the second time.,Account,Medium
+"good morning, how do i enable dark mode in settings. it happened again today. thank you!",Technical,Low
+Can I speak to a manager about my experience. Thanks.,General,Medium
+"Hello team, The whole website is down and we cannot work. I use the mobile app. Ref #7854.",Technical,High
+"Good morning, Where can I find your terms of service. This is the second time. Thanks.",General,Low
+"Good morning, I want to delete my account. Ref #1375. Regards.",Account,Medium
+My account was hacked and someone changed my password. It happened again today.,Account,High
+"Good morning, The app crashes every time I open it. I am on the premium plan. Ref #7230. Regards.",Technical,High
+"hey, why did the price of my plan increase. it happened again today. thanks.",Billing,Medium
+"hi, i was charged twice for my subscription. i use the mobile app. any update?",Billing,High
+"urgent: hey, what is the status of my shipment. i am on the premium plan. regards.",Shipping,High
+"Hi, I get an error when uploading a file. This is the second time. Thanks.",Technical,Medium
+"Hi, How do I add a new team member. Please help.",Account,Low
+"Good morning, Do you offer student discounts. Ref #6286. Any update?",General,Low
+"Good morning, Can I change the delivery address. This is the second time. Any update?",Shipping,Medium
+"Hello team, I want to delete my account. Thank you!",Account,Medium
+Can I speak to a manager about my experience. I am on the premium plan.,General,Medium
+How do I enable dark mode in settings. I am on the premium plan. Ref #7467. Thanks.,Technical,Low
+"hey, my account was hacked and someone changed my password. this is the second time. ref #3105. please help.",Account,High
+"hey, the dashboard loads very slowly. i use the mobile app. ref #4450.",Technical,Medium
+"hello team, i cannot log in to my account. i use the mobile app. thank you!",Account,High
+"hello team, please change the email address on my profile. thank you!",Account,Low
+do you offer student discounts. any update?,General,Low
+"Hello team, The app crashes every time I open it. I use the mobile app. Thank you!",Technical,High
+"Good morning, Can I speak to a manager about my experience. I use the mobile app. Ref #8672.",General,Medium
+"Hello team, The payment failed but money was deducted from my card. Ref #1281. Please help.",Billing,High
+Tracking shows no updates for five days. It happened again today. Please help.,Shipping,Medium
+"Hello team, I was charged twice for my subscription. It happened again today. Thanks.",Billing,High
+I want to delete my account. I use the mobile app. Thank you!,Account,Medium
+"hello team, i get an error when uploading a file. i am on the premium plan. regards.",Technical,Medium
+"Hey, Can I change the delivery address. I use the mobile app. Please help.",Shipping,Medium
+"Good morning, Can I change the delivery address. Thank you!",Shipping,Medium
+"Good morning, What is the status of my shipment. I use the mobile app.",Shipping,Low
+I did not receive the verification email. This is the second time.,Account,Medium
+"Hi, Why did the price of my plan increase. This is the second time. Ref #3992. Thanks.",Billing,Medium
+"Hello team, I want to delete my account. It happened again today. Thanks.",Account,Medium
+"hello team, where can i find your terms of service. this is the second time. thank you!",General,Low
+"Hi, Do you ship to Canada. I am on the premium plan. Ref #4764. Any update?",Shipping,Low
+"good morning, why did the price of my plan increase. this is the second time. ref #3641. regards.",Billing,Medium
+"Hi, The app crashes every time I open it. Ref #6492. Thanks.",Technical,High
+"Hey, The package came damaged. Ref #6740.",Shipping,High
+"Hello team, The export button does nothing. Any update?",Technical,Medium
+Do you have a partnership program. Any update?,General,Low

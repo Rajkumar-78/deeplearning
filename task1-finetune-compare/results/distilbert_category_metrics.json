@@ -1,0 +1,15 @@
+{
+  "model": "DistilBERT (fine-tuned)",
+  "target": "category",
+  "device": "cpu",
+  "val": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "test": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "train_time_s": 723.4,
+  "inference_ms_per_ticket": 24.394
+}
